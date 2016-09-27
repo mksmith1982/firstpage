@@ -1,0 +1,42 @@
+a{text-decoration:none;
+color:black;}
+nav{ margin:0 auto;background-color:grey;
+  font-color:white;
+  margin:0px;
+text-align:center;}
+.ilogo {font-weight:bold;
+  width:6px; padding:3px; margin: 3px auto;
+        text-align:center;
+        border: 1px;
+        border-color:white;
+        border-style:solid;
+        color:white;
+        background-color:grey;
+        padding-left:8px;
+        }
+       
+.navlinks{ font-weight:bold;
+  background-color:grey;
+color:black;}
+.navbar{padding:5px;font-family:Verdana}
+.topsection{ width:80%; margin:0 auto;
+  font-family:Verdana;
+  background-color:grey; 
+  font-size:12pt; 
+  color:white;}
+.loginbutton{
+  font-weight:bold; color:black; padding:30%;}
+.newsbox{background-color:lightgrey;
+color:grey;}
+.textmain{color:black; 
+font-weight:bold;
+font-family:verdana;
+text-decoration:none;
+}
+
+
+  
+.listitems{;}
+
+.footertext{font-weight:bold; color:black;
+font-family:verdana;}
